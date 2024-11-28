@@ -1,4 +1,4 @@
-
+```
 import cv2
 viedoCaptureObject=cv2.VideoCapture(0)
 while(True):
@@ -57,3 +57,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
+```
